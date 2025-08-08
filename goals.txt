@@ -1,4 +1,4 @@
-Cross a four-lane road
+Cross a four-lane road*
 Cross [5-15] roads
 Don't cross any roads without using a crossing
 Cross a river (B)
@@ -14,57 +14,57 @@ Board a bus (P,£,T)
 Don't use public transport (P)
 Enter a tunnel
 Don't touch any doors (D)
-Feed some ducks* (£)
+Feed some ducks* (£,N)
 Find all the digits 0-9 on posters
 Find all the digits 0-9 on road signs
 Find a four-digit number which isn't a time or year
-Find a player's birthday
-Find today's date in a different year
-Find today's date including the year
+Find a player's birthday (L)
+Find today's date in a different year (L)
+Find today's date including the year (L)
 Find something rainbow-coloured (C)
 Find something only black and white* (C)
 Find something heart-shaped
 Find something star-shaped
 Mimic a statue
-Mimic a painting
+Mimic a painting (N)
 Use [1-3] escalators
 Go up [50-200] stairs (/)
 Go down [50-200] stairs (/)
-Find [5-10] species of birds (U)
+Find [3-5] species of birds (U,N)
 Find a natural island
 Find a boat
 Swap two traffic cones
-Visit the tallest building (U,I)
-Visit the smallest building (I)
-Visit the oldest building (I)
+Visit the tallest building (U,I,.)
+Visit the smallest building (I,.)
+Visit the oldest building (I,.)
 Enter [1-3] hotels (I)
 Find [3-7] pubs or bars
 Get a guide*
-Find a nest (U)
-Buy someone a coffee* (£,T)
+Find a nest (U,N)
+Buy someone a coffee* (£,T,N)
 Climb over a fence (G)
-Pet a dog
-Collect [4-6] coins of different values (£)
-Collect a coin of every value (£)
-Dance to a busker
+Pet a dog (N)
+Collect [4-6] coins of different values (£,N)
+Collect a coin of every value (£,N)
+Dance to a busker (N)
 Find [10-20] postboxes
 Find [5-10] modes of transport*
-Find a car at least 30 years old
+Find a car at least 20 years old
 Find a car less than a year old
 Find a red sports car (C)
 Find a building at least 200 years old
-Buy food while outside (£,T)
-Buy a live plant (£)
-Buy a toy from a market (£,T)
-Buy something from a museum (£,T,I)
+Buy food while outside (£,T,N)
+Buy a live plant (£,N)
+Buy a toy from a market (£,T,N)
+Buy something from a museum (£,T,I,H,N)
 Find [2-4] alternative signs for toilets*
 Find bronze*
 Find silver*
 Find gold*
 Find a diamond
-Find an empty plug socket
+Find an empty plug socket (I,N)
 Press a red button (C)
-Find a book beginning with [A-Z]
+Find a book with a title beginning with [A-Z]* (N)
 Recycle something*
 Eat and finish something sweet (£,E)
 Drink a whole cup of tea (£,E)
@@ -73,28 +73,28 @@ Sit on [6-15] benches or chairs (S)
 Sit on [3-10] benches (S)
 Sit on [3-5] chairs (S)
 Ride an elevator from top to bottom (I)
+Find a location labelled '[A-F]'*
 Find something labelled 'X'*
-Find a location labelled '[A-F]'
-Find an item for [1-7]0% off
-Find an item reduced by more than £100
-Find an item which costs more than £1000
-Find a blue flower (C)
+Find an item for [1-7]0% off (I,H,N)
+Find an item reduced by more than £100 (I,H,N)
+Find an item which costs more than £1000 (I,H,N)
+Find a purple flower (C)
 Find a plastic flower
 Find a t-shirt referencing a video game
-Find a religious text
+Find a religious text (N)
 Find [5-10] of the same religious symbol
-Find [5-10] upright crosses i.e. ✝ or +
+Find [5-10] upright crosses
 Find [5-10] diagonal crosses*
 Find a model of a bird
 Find a statue of an animal
+Sit in a square* (S)
+Sit inside a circle (S)
+Sit on a triangle (S)
 Throw a stone through a ring*
 Hit a bullseye
-Sit inside a circle (S)
-Sit in a square* (S)
-Sit on a triangle (S)
 Stand on a wall (|)
 Climb something (G,U)
-Find [3-7] distinct colours of carpet* (I,C)
+Find [3-7] distinct colours of carpet* (I,C,N)
 Find [5-10] types of ball*
 Find a road sign depicting an animal
 Don't talk to strangers* (T)
@@ -106,112 +106,112 @@ Dissolve something (£)
 Melt something (£,W)
 Find fire
 Find a map of another country (M)
-Find the word 'Help'
-Find the word 'Find'
-Find the word 'Only'
-Find the word 'Double'
-Find the word 'Now'
-Find the word 'Live'
-Find the word 'Right'
-Find the word 'Sorry'
-Find the word 'Happy'
-Find the word 'Day'
-Find the word 'Week'
-Find the word 'Month'
-Find the word 'Year'
-Find today's name i.e. _day
+Find the word 'Help' (L)
+Find the word 'Find' (L)
+Find the word 'Only' (L)
+Find the word 'Double' (L)
+Find the word 'Now' (L)
+Find the word 'Live' (L)
+Find the word 'Right' (L)
+Find the word 'Sorry' (L)
+Find the word 'Happy' (L)
+Find the word 'Day' (L)
+Find the word 'Week' (L)
+Find the word 'Month' (L)
+Find the word 'Year' (L)
+Find today's name (L)
 Visit the local authority's building (I)
-Find the phrase '24 hours'
-Find a shop with a name in a foreign language
-Find [3-5] restaurants with names in a foreign language
-Eat food from somewhere with a name in a foreign language (£,E)
-Find honorary titles in [5-15] places*
+Find the phrase '24 hours' (L)
+Find a shop with a name in a foreign language (L)
+Find [3-5] restaurants with names in a foreign language (L)
+Eat food from somewhere with a name in a foreign language (£,E,N,L)
+Find honorary titles in [5-15] places* (L)
 Collect and keep [5-7] different types of leaves
 Collect and keep a non-green leaf (C)
-Lie down on a bed (G)
-Put on some shoes
+Lie down on a bed (G,N)
+Put on some shoes (N)
 Remove an item of your clothing and keep it off
-Pop a bubble
-Don't get within two metres of an opponent (2,1)
-Overtake a jogger (R)
+Pop a bubble (N)
+Don't get within two metres of an opponent (2)
+Overtake a jogger (R,N)
 Return to the starting point on the hour (0)
 Play a song*
 Get a photo of the moon* (O)
 Get a photo of the ocean* (O)
-Pick up a spider
+Pick up a spider (N)
 Get some salt
 Get some sugar
 Don't run (R)
 Don't sit down (S)
 Ring a bicycle's bell
 Open a gate
-Take a group photo (O)
-Make someone laugh (T)
+Take a group photo with a stranger (O,T)
+Make someone laugh (T,N,L)
 Find an animal below ground
-Go to the third floor above ground* (I)
+Go to the third floor above ground* (I,N)
 Record a recorded voice with your phone
 Find wood painted white (C)
 Find wood painted black (C)
-Find a word more than ten letters long
+Find a word more than ten letters long (L)
 Jump over a rope (G)
 Don't use stairs* (/)
-Don't leave the ground (G)
+Don't stop touching the ground (G)
 Find [1-3] picnic areas
-Find a street name sign beginning with [A-J]
-Find a street name sign beginning with [K-T]
-Find a street name sign beginning with U-Z
+Find a street name sign beginning with [A-J] (L)
+Find a street name sign beginning with [K-T] (L)
+Find a street name sign beginning with U-Z (L)
 Pick up a phone that isn't yours
 Find a sea creature that isn't a fish
-Find a live fish
+Find a live fish (N)
 Don't spend any money (£)
-Picture a bird in flight (U,O)
-Cheer for a sports game
+Picture a live bird in flight (U,O,N)
+Cheer for a sports game (N)
 Refill something*
-Make a trade without money (T)
+Make a trade without money (T,N)
 Submerge or bury your hand
-Buy [3-7] different tickets (£)
-Write your name in ink
+Buy [3-7] different tickets (£,N)
+Write your name in ink (N)
 Carve your name
 Find something that's red, white, and blue (C)
 Touch an opponent's back from behind (2,1)
 Receive thanks from [3-7] people
-Enter a domed building (I)
+Enter a domed building (I,N)
 Don't return to the starting point (0)
 Don't turn around*
 Take a photo of your phone (O)
 Take a photo of your full-body reflection (O)
 Don't look upwards* (U)
 Don't take any photos (O)
-Find [2-5] businesses beginning with [A-I]
-Find [2-5] businesses beginning with [K-P]
-Find [2-5] businesses beginning with [R-T]
-Find [2-5] businesses beginning with U-Z
+Find [2-5] businesses beginning with [A-I] (L)
+Find [2-5] businesses beginning with [K-P] (L)
+Find [2-5] businesses beginning with [R-T] (L)
+Find [2-5] businesses beginning with U-Z (L)
 Jump over a hole* (G)
-Carry an egg with a spoon for at least 10 metres (£)
+Carry an egg on a spoon for at least 10 metres (£)
 Pick [10-20] flowers
 Roll something up a slope
-Find a welcome sign to an area*
+Find a welcome sign to an area* (L)
 Cast two shadows
 Find a depiction of a dragon
 Stack [6-15] of the same thing
 Leave a possession and retreive it in [5-30] minutes
-Draw a self-portrait
+Draw a self-portrait (N)
 Jump over an artwork (G)
-Don't move
-Wear [1-5] hats
-Wear sunglasses
+Don't move before your opponents
+Wear [1-5] hats (N)
+Wear sunglasses (N)
 Use a self-propelled vehicle (G,£)
 Make a knee-high pile of leaves and jump on it (G)
 Get some water and drink it all (£)
 High-five a stranger
 Move a chair at least 2 metres
 Walk on wood
-Pick up [2-5] different insects
+Pick up [2-5] different insects (N)
 Halve something*
 Find parked cars in [5-10] different colours (C)
 Find a growing fruit
 Find a sign with 3 typefaces
-Flip a switch
+Flip a switch (I,N)
 Press one button [20-50] times
 Run (R,G)
 Find every other player (1)
@@ -219,15 +219,15 @@ Find an opponent at the end (1)
 Complete your first goal again at the end* (?)
 Return to the starting point at the end
 Hold an unsealed drink for the rest of the game* (£)
-Make a sandwich* (£,I)
+Make a sandwich* (£,I,H,N)
 Sing along (T)
-Find the biggest clock
+Find the biggest clock (.)
 Find a compass
 Slide down a slope
 Compliment a stranger (T)
 Touch wool
 Find copper
-Sit on [2-4] toilets (S)
+Sit on [2-4] toilets (S,N)
 Do [3-5] sets of 10 squats
 Stay in one spot for [5-15] minutes
 Don't use any maps* (M)
@@ -235,106 +235,106 @@ Watch an opponent complete a goal (2,?,1)
 Don't say the letter 'e'*
 Eat something strawberry flavoured* (£,E)
 Float a boat*
-Touch a persistent natural body of water
+Touch a persistent natural body of water (W)
 Drink one unit of alcohol* (£,E)
 Don't use the internet*
 Break a foreign law*
-Visit the highest accessible point* (£,I)
-Find a shop with a [2-4] letter name
-Find a business with a [3-5] word name
-Eat in at 3 places* (£,T,I,E)
+Visit the highest accessible point* (£,I,N,.)
+Find a shop with a [2-4] letter name (L)
+Find a business with a [3-5] word name (L)
+Eat in at 3 places* (£,T,I,H,E)
 Find an address starting with '123'
 Don't get photographed by an opponent after 5 minutes have passed (1)
 Walk a kilometre away* (M)
 Eat a whole vegetable (£,E)
 Hide a brand new toy* (£)
-Don't enter any shops
+Don't enter any shops* (H)
 Don't step on a crack
-Pet an animal that's not a pet
+Pet a live animal that's not a pet (N)
 Talk with [10-20] strangers (T)
 Get wet (W)
 Don't get wet (W)
 Cry (W)
-Use a vehicle that isn't a bus, train, or bicycle
-Don't spend more than £10
+Use a vehicle that isn't a bus, train, or bicycle (£)
+Don't spend more than £10 (^)
 Don't go to more than one shop
 Go 100 metres away from any buildings
-Find someone wearing a band t-shirt
+Find someone wearing a band t-shirt (N)
 Touch the centre of a fountain (W)
-Throw an egg above your head without breaking it (£)
+Throw an egg above your head without it breaking (£)
 Burst a balloon (£)
 Touch a mushroom
-Eat or drink at an exclusively national chain (£,I,E)
+Eat or drink at an exclusively national chain (£,I,H,E,N)
 Touch ice (W)
 Touch sand
 Climb a tree (G,U)
-Touch a bird
-Weigh yourself
-Donate £1 per uncompleted goal (£)
+Touch a bird (N)
+Weigh yourself (I,N)
+Donate £1 per uncompleted goal (£,N)
 Fill a bag with litter
-Transfer a cup of water between bodies of water
-Lie down on the busiest pedestrian street
-Reach the highest topographical point (M)
-Find a four-leaf clover
-Crawl from one corner to the opposite corner of a public space
+Transfer a cup of water between bodies of water*
+Sit down on the ground in the busiest pedestrian street (.)
+Reach the highest point on the ground (M,.)
+Find a three-leaf clover
+Crawl from one corner to the opposite corner*
 Find a sign with five stars
 Hold [10-20] objects in your hands
-Find a player's name
+Find a player's name (L)
 Find a circular logo
 Find a logo with more than three colours (C)
 Work out a random 3-digit multiplication at a school*
-Work out the total cost of a menu
-Find a record of a lifespan over 75 years long
+Work out the total cost of a menu*
+Find a record of a lifespan over 75 years long (N)
 Count the times on a timetable
-Travel on water (P,£)
+Travel on water (P,£,N)
 Go over and under the same bridge (B)
-Rent something (£)
+Rent something (£,N)
 Step or clap on every beat of a song
 Visit a regional train station* (I)
 Follow something floating downriver for [1-5] minutes
-Visit the priciest hotel* (I)
-Visit the cheapest hotel* (I)
+Visit the priciest hotel* (I,.)
+Visit the cheapest hotel* (I,.)
 Leave a gift on a parked car (£)
 Leave a gift on a parked bicycle (£)
 Go [10-20]00 metres from the starting point (M)
-Go 1 kilometre from the starting point then return to it (M,1)
+Go 1 kilometre from the starting point then return to it (M,0)
 Find a door more than 12 feet tall
 Find a bone
-Find the interior of every window on the first floor above ground* (I)
+Find every window on the first floor above ground in a building* (I,N)
 Follow an opponent for [1-5] minutes (2,1)
 Draw a circle wider than a metre
 Win a game against a stranger (T)
-Find [3-5] different musical instruments
-Open [5-10] doors manually (D)
-Sit on [5-10] sofas (S)
+Find [3-5] different musical instruments (N)
+Open [5-10] doors manually (D,N)
+Sit on [5-10] sofas (S,I,H,N)
 Find a leather jacket
-Find an empty hanger*
-Find a wheelchair
-Find a white animal
-Find a piece to a board game
-Wave at [10-20] security cameras
+Find an empty hanger in a clothing shop* (I,H,N)
+Find a wheelchair (N)
+Find a white animal (N)
+Find a piece to a board game (N)
+Wave at [10-20] security cameras 
 Pass yourself through a ring
 Touch [25-50] trees
 Find a hammer
-Land a bottle flip*
-Read a chapter (I)
-Stop a timer at x.00 seconds
+Land a bottle flip* (N)
+Read a chapter (I,N,L)
+Stop your phone's stopwatch at x.00 seconds
 Don't drop anything
-Get [2-5] different cards
+Get [2-5] different cards (N)
 Unscrew something
 Find [1-3] parking tickets
 Find both sides of a road closure
-Find someone wearing a hi vis jacket
+Find someone wearing a hi-vis jacket
 Find a phone number divisible by 9
-Buy [2-5] different red things in 5 minutes* (£,I,C)
-Buy [2-5] different round things in 5 minutes* (£,I)
+Buy [2-5] different red things in 5 minutes* (£,I,H,C)
+Buy [2-5] different round things in 5 minutes* (£,I,H)
 Find a scale model
-Find a toy car
+Find a toy car (N)
 Hit 3 types of triangular signs*
 Find a triple-letter numberplate
-Touch a cactus... carefully
-Find a rodent
-Find an open rooftop (G,I)
+Touch a cactus... carefully (N)
+Find a rodent (N)
+Find an open rooftop
 Have a conversation with a stranger for at least [5-10] minutes (T)
 Stand underneath a crane (U)
 Don't go north of the starting point
@@ -345,79 +345,163 @@ Don't complete any two goals on the same road
 Don't go indoors (I)
 Eat something spicy (£,E)
 Eat a bowl of cereal* (£,E)
-Photograph [10-20] different species (O)
-Find someone twice or half your age* (T)
-Press every key on a keyboard
+Photograph [10-20] different live species (O,N)
+Find someone twice or half your age* (T,N)
+Press every key on a keyboard (N)
 Eat a cake or pie (£,E)
 Walk under a stone arch
 Borrow something from [1-3] strangers (T)
-Touch grass [3-7] times, at least 5 minutes apart*
+Touch live grass [3-7] times, at least 5 minutes apart*
 Throw a paper aeroplane and retrieve it
 Keep a stone in your shoe for the rest of the game
 View a windmill*
 Find a stained-glass window
 Put a hat on a statue's head (£)
-Find a signpost and follow it to a destination
+Find a signpost and follow it to its destination
 Go to the edge of a map* (M)
-Follow a trail for [2-5] markers
-Visit both ends of the longest road
+Follow a hiking trail for [2-5] markers
+Visit both ends of the longest road (.)
 Find a moon symbol
 Find a sun symbol
 Tear something
 Wait for a bus*
-Wait for a train*
-Find an alliterative street
-Find a street with every vowel in its name 
-Recite a monologue in a theatre (I,T)
+Wait for a train* (£)
+Find an alliterative street (L)
+Find a street with every proper vowel in its name (L)
+Recite a monologue in a theatre (I,T,N)
 Impersonate a celebrity named on a poster
-Visit the oldest theatre (I)
-Visit the oldest hotel (I)
-Enter [2-5] theatres/cinemas (I)
-Find a date from next year
-Find a building with [4-16] windows (U)
-Solve a puzzle in a newspaper (£)
-Charge your phone*
+Visit the oldest theatre (I,.)
+Visit the oldest hotel (I,.)
+Enter [2-5] theatres or cinemas (I,N)
+Find a date at least six months from now
+Find a building with exactly [4-16] windows (U)
+Solve a puzzle in a newspaper (£,N)
+Charge your phone* (I,N)
 Score a point in a ball game
 Score ten points in a game
-Find a street with a colour in its name
-Find [2-5] businesses with a colour in their name
+Find a street with a colour in its name (L)
+Find [2-5] businesses with a colour in their name (L)
 Wear something orange (C)
 Find a green car (C)
 Find a flag with no blue on it (C)
 Hold a minute of silence at a war memorial
 Give an opponent a gift (£,2,1)
-Wrap a gift (£)
+Wrap a gift in paper* (£)
 Find a blue light (C)
-Find every letter A-Z in product labels (I)
-Find every letter A-Z in business names
-Don't walk on any street beginning with a vowel
-Complete the goals in two adjacent squares* (?)
-Complete another goal while obeying a random ban (?)
-Complete two goals less than a minute apart (?)
+Find every letter A-Z in product names (I,H,L)
+Find every letter A-Z in business names (L)
+Don't walk on any street beginning with a letter in 'street'
+Complete the goals in two squares adjacent to this one* (?)
+Complete two goals without moving from your spot (?)
+Complete two goals less than a minute apart* (?)
 Complete a goal blindfolded (?)
 Complete a goal at the starting point (?)
 Complete a goal over 1km from the starting point (?)
-Complete a line of four goals (?)
+Complete a line of four goals* (?)
 Stand below a balcony
-Take a photo of over 100 people (O)
+Take a photo of over 100 people (O,N)
 Find words carved into the ground
-Find the word 'Not' on a screen
-Find a Stop sign
+Find a broken or glitching screen
+Find a STOP sign
 Go underneath a barrier
-Try a free sample (E)
+Try a free sample (E,N)
 Throw something into a bin standing [2-5] metres away
-Find the name of [5-10] different countries
-Find a fossil
+Find the name of [5-10] different countries (L)
+Find a fossil (N)
 Find a depiction of a dinosaur
-Consume something from the oldest cafe (£,E)
-Touch water every 10 minutes (W)
-Open an umbrella indoors (I)
-Pet a toy cat
-Get four things that are old, new, borrowed, and blue* (C)
-Find a birthday card with the youngest player's age (I)
-Find a shop with no customers (I)
+Consume something from the oldest cafe (£,E,I,H,N,.)
+Touch water every 10 minutes* (W)
+Open an umbrella indoors (I,H,N)
+Pet a toy cat (N)
+Get four things that are old, new, borrowed, and blue* (£,C,N)
+Find a birthday card with the youngest player's age (I,H,N)
+Find a shop with no customers (I,H,N)
 Find a road with no pedestrians
 Kill a weed
 Find a clock that's off by more than an hour
 Find a clock when the hands cross (U)
 Don't touch any walls (|)
+Spend at least £10 (£)
+Spend exactly £1 (£,^)
+Steal from an opponent (2,1)
+Use a vending machine (£)
+Buy a snack on a stick (£)
+Get a product made from wood
+Get a shell*
+Get a feather
+Crawl under a slide (N)
+Photograph the underside of a bridge (O)
+Throw a coin into a fountain (£)
+Get an underwater stone* (W)
+Touch both sides of an alley* (|)
+Complete a goal within a metre of a body of water (?)
+Chase a ball down a hill
+Find an outdated poster
+Find an outdated flag
+Walk the whole perimeter of a public square
+Carry two litres of liquid for [5-15] minutes
+Go somewhere rated less than 2 stars*
+Go somewhere rated 4.4 stars*
+Find [3-5] streets beginning with a vowel (L)
+Get something that glows (£)
+Take something from the post office to a collection point (I,N)
+Take [4-8] consecutive right turns
+Find a thermometer
+Visit a governmental office
+Find the same item in [3-5] different shops (I,H)
+Leave a flower on a grave (N)
+Parrot an animal sound* (N)
+Find the highest transit route number* (.)
+Hug a statue
+Hug [4-6] trees in [1-3] parks* (N)
+Don't use any roads containing the letter [A-Z]
+Eat the national dish (£,E,N)
+Make a daisy chain with [15-30] daisies
+Pour water into a river
+Take one photo with a plane and a bus (O,U)
+Write a card for your opponents (£,I,H,N)
+Sample [8-15] fragrances (I,H)
+Find a cat and a dog (N)
+Find a multicolour car (C)
+Bury a coin (£)
+Eat a herbal leaf* (E)
+See a bird and a bee (N)
+Visit [3-5] streets beginning with the same letter (L)
+Find a hospital
+Cut your hair*
+Find an object beginning with [A-P] in a shop which does too (I,H,N,L)
+Buy an object beginning with [R-T] in a shop which does too (£,I,H,N,L)
+Find any pride flag
+Find two things which are homophones (L)
+Find something which is depicted on a sign
+Bat a ball*
+Don't make eye contact
+Don't exit through the door you entered
+Don't take any left turns
+Find an emoji*
+Eat something vegan (£,E)
+Stand on a stage
+Find a palindrome (L)
+Dance in a theatre (I,N)
+Don't go to any sheltered outdoor areas*
+Honestly compliment [5-10] strangers (T)
+Eat five fruits (£,E)
+Roll double sixes (£,I)
+Return a shopping basket or trolley (I,H)
+Drink wine next to water* (£,E,I)
+Copy a photo on Wikipedia (O)
+Jog the whole perimeter of a park (R)
+Reply to someone making a phone call (T)
+Trace a shadow (N)
+Crawl beneath a bike rack (G)
+Inflate a balloon (£)
+Spit something [1-5]0 centimetres
+Buy something from a gift shop (£,I,N)
+Make or draw the Square Off logo* (C)
+Post a letter (£,N)
+Copy a graffito
+Record [3-7] songs (N)
+Buy something for less than 50p (£)
+Photograph [5-10] species of live animals (O)
+Switch a light on and off
+Find [5-10] businesses beginning with vowels (L)
